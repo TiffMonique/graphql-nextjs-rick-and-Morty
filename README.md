@@ -1,0 +1,1 @@
+# graphql-nextjs-rick---Morty-wiki
