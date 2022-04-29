@@ -36,7 +36,7 @@ export default function Home(results) {
         <form
           onSubmit={async (event) => {
             event.preventDefault();
-            const results = await fetch("/api/SearchCharacters", {
+            const results = await fetch("./api/SearchCharacters", {
               method: "post",
               body: search,
             });
