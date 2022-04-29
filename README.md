@@ -16,9 +16,7 @@ Install all the needed packages:
 
 To run the app:
 
- ```
 
  ```
-
 npm run dev
  ```
